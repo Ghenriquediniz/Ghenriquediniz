@@ -1,7 +1,7 @@
-### Olá, eu sou o Guilherme 👋
+### <img align="center" alt="Gui-HTML" height="50" width="50" src="https://img.icons8.com/bubbles/344/man-in-blue-t-shirt.png"> Olá, eu sou o Guilherme 👋 
 
 * Amo aprender coisas novas;
-* Fã de jogos pixelArt;
+* Fã de programação;
 * Futuro desenvolvedor front-end;
 
 ## ⚡ GitHub Stats
@@ -31,6 +31,6 @@
 
 <br/>
 
-##Contato 
+## 📌	 Contato
 
 <a href="https://www.linkedin.com/in/guilherme-henrique-diniz-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
