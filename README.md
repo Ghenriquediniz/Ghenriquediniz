@@ -4,14 +4,6 @@
 * Fã de programação;
 * Futuro desenvolvedor front-end;
 
-## ⚡ GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Ghenriquediniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghenriquediniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghenriquediniz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## 🚀💻 Tecnologias
 
 <div style="display: inline_block">
@@ -34,3 +26,11 @@
 ## 📌	 Contato
 
 <a href="https://www.linkedin.com/in/guilherme-henrique-diniz-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Ghenriquediniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghenriquediniz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghenriquediniz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
