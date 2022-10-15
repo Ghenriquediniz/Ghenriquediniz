@@ -16,7 +16,9 @@
   <img align="center" alt="Gui-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Gui-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Gui-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Gui-Windows" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.svg"/>
+  <img align="center" alt="Gui-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Gui-5" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/en/0/0b/VSDC_logo_png.png">
+  <img align="center" alt="Gui-5" height="35" width="35" src="https://img.icons8.com/fluency/344/microsoft-office-2019.png">
 
 </div>
 
