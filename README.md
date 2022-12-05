@@ -6,7 +6,7 @@
 ## 🚀💻 Tecnologias
 
 <div style="display: inline_block">
-  <img align="center" alt="Gui-C#" height="30" width="40" src="https://icons8.com/icon/40669/c%2B%2B">
+  <img align="center" alt="Gui-C#" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
