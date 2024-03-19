@@ -1,6 +1,6 @@
 ### <img align="center" alt="Gui-HTML" height="50" width="50" src="https://img.icons8.com/bubbles/344/man-in-blue-t-shirt.png"> Olá, eu sou o Guilherme 👋 
 
-Focado em aprimorar minhas habilidades na área da tecnologia. Possuo conhecimento em tecnologias front-end, como HTML, CSS e JavaScript, e estou me aperfeiçoando em desenvolvimento back-end, com as linguagens C#, .NET e mySQL. Meu objetivo é combinar minha experiência em finanças e contabilidade com minhas habilidades em tecnologia para encontrar soluções inovadoras e eficientes para problemas de negócios. 
+Entusiasta de Python focado em projetos de automação para simplificar tarefas repetitivas. Especializado em desenvolver programas e scripts para automatizar processos e aumentar a eficiência. Apaixonado por explorar novas tecnologias e encontrar soluções criativas para desafios do mundo real. Sempre em busca de aprender e compartilhar conhecimento com a comunidade.
 
 Estou em constante busca por aprimoramento profissional e pessoal, buscando aprender e crescer constantemente. Sempre estou aberto a novos desafios e oportunidades, acredito que é por meio desses desafios que podemos evoluir e alcançar nossos objetivos.💪
 
